@@ -1,6 +1,6 @@
 # Dylan Leysner
 📍 Suriname, Paramaribo
-💼 Spatial data Engineer, Programmer.
+💼 Geospatial data Engineer, Programmer.
 📧 dylanleysner7691s@gmail.com
 ## Skills
 - Python, Javascript
