@@ -73,6 +73,11 @@ Digital mapping tools
 - Dutch (Native)
 - English (Professional working proficiency)
 
+---
+
+## Contact
+Phone: +597 8675493
+Email: dylanleysn@gmail.com
 
 
 
